@@ -1,0 +1,940 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml, https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml"
+
+#EXTINF:-1 group-title="16/07/2024-22:51:18 (9 horas directo)" group-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/MPLUS" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/MPLUS", Mensaje informativo
+https://
+
+#EXTINF: -1 tvg-name="13 TV" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/13TV" group-title="Informativos", 13 TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"gglU8t9S0XFkS0Na8FYzdQ","kid":"YS6tV6AfT+qHr0mCMawtsQ"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/5094/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="24 Horas" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/24H" group-title="TDT", 24 Horas
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"gMxe5n3721fjw6QwgXPUiw","kid":"bnPXxPSyShmSnLXkv9I1JA"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4544/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="AMC Break" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/BIOGRA" group-title="Entretenimiento", AMC Break
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"KEo7uprKvGEJKCvYZtK4DA","kid":"XSjS7pLDRmmsTtOAy8LzFg"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/5097/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="AMC Crime" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/CYM" group-title="Entretenimiento", AMC Crime
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"A1j0j0qTtfmZv8WGmeoV7A","kid":"UNlwjZ2BTZGaKvRXBg3FXg"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4552/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="AMC" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/AMC" group-title="Cine y series", AMC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"sfpkbr4hjRlliz4xOkmFkw","kid":"RzHxiWuxR3GvvRxxwi8qog"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4520/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Antena 3" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/A3" group-title="TDT", Antena 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ti0Qlttk084JEg9LmEcvIg","kid":"e+2VJ7YKRNyPu+mEVoJTpg"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4523/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Aragón TV Internacional" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/ARAGTV" group-title="Autonómicos", Aragón TV Internacional
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"A96n3PwP2saIROJLVUqZmg","kid":"yNyHUJfgQECQVBmXZwfsPg"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/5090/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Atreseries" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/ATRESS" group-title="TDT", Atreseries
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"K7Zz8RfsnxSDeya75hqs5g","kid":"FLr1QMhrSOSVRFm6Dnbepw"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4539/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="AXN Movies" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/SET" group-title="Cine y series", AXN Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NQKEaed5AnGM/wTIGue+oA","kid":"NiexOYtxTgui2VCsI4rnLQ"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4535/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="AXN" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/AXN" group-title="Cine y series", AXN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"0v3A8NrL5hgKR5UmZX16bw","kid":"XGfBO8PEQrCS5JBssBs0Tw"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4529/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Baby TV" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/BABY" group-title="Infantiles", Baby TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1f3+kasEgxHbImhEKMpdxw","kid":"KiVGGgXfQm6KWUiETnc+8A"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4508/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="BBC World News Europe" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/BBC" group-title="Informativos", BBC World News Europe
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"EklHET3YVf3SApvjSLnXmw","kid":"ykaiZhfPQkmGi5rdbmQSPQ"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/5256/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="BE MAD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/BEMAD" group-title="TDT", BE MAD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"2H23g8bh02J/mOD2+7J5Xg","kid":"9HF2/2WbTf+fpsA/6+MpOw"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4560/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Boing" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/BOING" group-title="TDT", Boing
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"JGDQZg/l5njyFYJTQRpvNQ","kid":"OBMt+9HrQHONmkdPfg3k4w"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4563/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="BuenViaje" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/BUENV" group-title="Entretenimiento", BuenViaje
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"G8v/25G12RvUbGysG7I5UA","kid":"bPqJ2PqMSuOf9r108jqSNA"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/5049/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Calle 13" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/CL13" group-title="Cine y series", Calle 13
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"iXJI0nYw5bNbN+WqOmAMHQ","kid":"Edlz8+jZS/SXRN/nDIWGpw"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4532/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Canal Cocina" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/CACOC" group-title="Entretenimiento", Canal Cocina
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"AhWlCPOSXLmKt75k9+Vaug","kid":"QHTtOl01QdaLmgajkcUZ6g"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4506/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Canal Decasa" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/DECASA" group-title="Entretenimiento", Canal Decasa
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"RS8vNJICQIq7CTbJK9ILdg","kid":"CnSJ93veT2KGejutkj5UmA"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4602/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Canal Extremadura Sat" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/EXTREM" group-title="Autonómicos", Canal Extremadura Sat
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"A0OBCYQ86OIBhSZ2qspivQ","kid":"aDbqfNOnQoeonb5qZ4lLZw"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4614/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Canal Hollywood" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/HOLLYW" group-title="Cine y series", Canal Hollywood
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3McD480rn2c3nBFlWWzFmA","kid":"hgKTWAzcQY2ywRkLKLKIiQ"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4780/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Canal Sur Andalucía" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/ANTV" group-title="Autonómicos", Canal Sur Andalucía
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"aVjNgv8mPCeF2Ery06KjOQ","kid":"I5lMDOSRSjigTh7d6EY9ZQ"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4764/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Canal Sur" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/CANSUR" group-title="Autonómicos", Canal Sur
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"OEAYXixIIxN6XN0kYGhDmg","kid":"ofK16IzjQvaYzO70fBGOmw"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4980/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Castilla la Mancha TV" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/CASMAN" group-title="Autonómicos", Castilla la Mancha TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ev8QDird7ZElxKQmYmvNZg","kid":"eHFMLGjARHKy4xEBntxqkw"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/5265/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Caza y Pesca" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/CAZPES" group-title="Entretenimiento", Caza y Pesca
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"TUDediQAAvbw37zNXhRUdg","kid":"4IgUoz5IQtKcttTPl69vNg"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4606/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Clan" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/CLANTV" group-title="TDT", Clan
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"5v6EAp5uLg4gOM7+G12qhQ","kid":"4sJlQoUsQzOuxo6DhE87sQ"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4611/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Classica" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/CLASSD" group-title="Música", Classica
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"O5fVT9hKiq71/fhBQLMboQ","kid":"qUWUpE+RQZeW0AEbRl3lKQ"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4612/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="CNN Int" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/CNN" group-title="Informativos", CNN Int
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"dP0Chy/5dPjzip/zhF6qWw","kid":"N6RogdCUSvqOoQlCVVpSZw"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/5254/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Comedy Central" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/PCM" group-title="Cine y series", Comedy Central
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"d9XmimZ+UYDIbP6eSUvVTQ","kid":"GKJlqWjDSgqHIYrGhXnMeA"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4531/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="COSMO" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/COSMO" group-title="Cine y series", COSMO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"fJxXdCOuDuK8Zy8QsAiZaQ","kid":"RA0lH7CnQsa6EY4d0Nhv/g"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4533/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Cuatro" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/C4" group-title="TDT", Cuatro
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"IQAG+1/crlp9NgUd4xkRtA","kid":"Jqe6OEGtQR6hOp+50UcOqQ"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4524/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="DARK" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/DARK" group-title="Cine y series", DARK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9wdiI4uyKMhbglRZ577Vpw","kid":"C6rcWoqfTTmAj/LdPTacew"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4583/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="DAZN 1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/M1SD" group-title="DAZN", DAZN 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"plSID1U17z5mRKQc8fjyXA","kid":"vlXKICPWRtKQljem80Thcg"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4949/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="DAZN 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/M2SD" group-title="DAZN", DAZN 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"glq74TUh2yrqEZ4VMdiRyw","kid":"ZF11ZIP1Q9O0M/iYmlcLOQ"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4950/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="DAZN 3" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/DAZN3" group-title="DAZN", DAZN 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"zRVoFe8F3Mn8w2JufVLbeQ","kid":"tGQYQrWCQ5Cn/o1Ox4EDHQ"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4961/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="DAZN 4" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/DAZN4" group-title="DAZN", DAZN 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"jg6hKJE1NV8K71kma9AHDg","kid":"Q2whZDkuRg2uQUIPU/nzlg"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4962/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="DAZN F1 4K" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/MF1UHD" group-title="DAZN", DAZN F1 4K
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"S4Tmo0OENYng7WPU46iCPg","kid":"G3ZhJzetTWeDdvbkbIEEow"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/5079/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="DAZN F1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/MVF1" group-title="DAZN", DAZN F1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ktblz74C/vLgnidhfjuUAw","kid":"QTs623jdRoSnhmgZeGuINg"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4608/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="DAZN LaLiga 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/DAZNL2" group-title="DAZN", DAZN LaLiga 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"rvqXaQ/epeZg/8k+ip4Iwg","kid":"XCM4+fciT2WbZlCTDJZoiA"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/5120/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="DAZN LaLiga" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/DAZNLI" group-title="DAZN", DAZN LaLiga
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3AKiJNzouOeiqiWyeTB5wA","kid":"0Ca1uaV/RuyNCA95LsvBwA"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/5119/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Decasa" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/DECASA" group-title="Entretenimiento", Decasa
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"RS8vNJICQIq7CTbJK9ILdg","kid":"CnSJ93veT2KGejutkj5UmA"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4602/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Discovery" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/DCR" group-title="Documentales", Discovery
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Pv79PhXl7boAvmZzNjuDHA","kid":"DnmgH48fQliPebPgdAPshA"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4545/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Disney Channel" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/DCH" group-title="TDT", Disney Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3LM8G5xriWRlDgjDO5CQdA","kid":"BnUnuLDZQX6rXfiyxEzOkw"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4599/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Disney Junior" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/PLAYDC" group-title="Infantiles", Disney Junior
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"AEbRLKAasQr2AtxAG9cPqw","kid":"xqFl3sjWTBuefE8TZBOE2w"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4509/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Divinity" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/DIVINI" group-title="TDT", Divinity
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ryuUK1CcJk20ubXJ4iNcMg","kid":"yVUuBRWyR3edLCBNwS9GtQ"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4507/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="DKISS" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/DKISS" group-title="TDT", DKISS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ctHIiMfMtLsrsQ5h/SQaWw","kid":"MdPI3k9GQE2WhVqEs1aOoQ"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/5246/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="DMAX" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/DCRMAX" group-title="TDT", DMAX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mdtq6TPBCt2sxUUVGggUTQ","kid":"oVsovn6ERIqv8yFWsaEB8g"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/5244/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Dreamworks" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/DWSP" group-title="Entretenimiento", Dreamworks
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"pymJOPYGiPNXWrm0HaV3Bw","kid":"TAaf2C2+SsmKp0eTIsVfAw"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4965/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="El Toro TV" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/INTECO" group-title="Informativos", El Toro TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"S3DIKRzsqtQ1CILRpkrqlg","kid":"DUP7SWObSsOlMlGEi87vPA"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4893/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Energy" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/ENERGY" group-title="TDT", Energy
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ubQC/xCL8+Sk3uusMcQ15Q","kid":"oUCTr0EcQNmSTuDYa7wYsQ"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4540/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Enfamilia" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/PANDA" group-title="Cine y series", Enfamilia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"O912lS6wM5zEcPUOEGf19w","kid":"WWm5tdUJTpWyhfbxDke4XQ"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4510/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="ETB 1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/ETB1" group-title="Autonómicos", ETB 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"JVGGUcIirgF0tci8aYlO9Q","kid":"kAEN3Q+HR4iWexi0jlO79w"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/5074/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="ETB Sat" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/ETB" group-title="Autonómicos", ETB Sat
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9TONfwHjCE95fEaMM0+Www","kid":"IBfHyIgvQVyzkbqhIv1y4A"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4557/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Euronews" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/ENW" group-title="Informativos", Euronews
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"FiYCaNHNflhZJzXHEQsYlQ","kid":"f3MCgpLRS5CCk0tDXlWH6w"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/5255/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Eurosport 1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/ESP" group-title="Eurosport", Eurosport 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"82zUEGHuh0EbQduew62Hlg","kid":"MyGLUh8ORHqTWtyZFVTGaw"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4605/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Eurosport 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/ESP2" group-title="Eurosport", Eurosport 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ZkRsyba5xpQ8awn6vvV78Q","kid":"Fv5a55RrQZeyQRyf/2HSKA"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4580/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Eurosport 4K" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/ESP4K" group-title="Eurosport", Eurosport 4K
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"JR/e+1lftriHoHAMxqVMMg","kid":"1ORj3noDTHS3pg4wajR2Tg"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/5272/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Factoría de Ficción" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/FDFIC" group-title="TDT", Factoría de Ficción
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HnTNw8zIIuGcFBggMy3c1A","kid":"4kf+FoPvSiiBfRycH+RY/A"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4537/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Fox News" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/FOXNWS" group-title="Informativos", Fox News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"UofyTMYg9vGHp7k9Mb6A1A","kid":"16SsjXWgR+G66lpEU2ZDJQ"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/5197/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Gol Play" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/GOL" group-title="TDT", Gol Play
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"VzWj92fIRLL/QSjXeIN5pA","kid":"giq3OeAgT2uG8N2oUnUrfQ"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4577/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Historia" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/HIST" group-title="Documentales", Historia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kF1JiACSNUnhck1gbhXajw","kid":"j9BYuh2rRCWu2A8Z7Sj6cQ"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4543/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Hollywood" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/HOLLYW" group-title="Cine y series", Hollywood
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3McD480rn2c3nBFlWWzFmA","kid":"hgKTWAzcQY2ywRkLKLKIiQ"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4780/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="IB3" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/IB3" group-title="Autonómicos", IB3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"B3yvYL5JlhuLmBYz923YPg","kid":"gJoPk0ywRza5nEt6ZuVrHA"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/5091/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="LA 1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/TVE" group-title="TDT", LA 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ccmH3wie2gRvr1kpMehKXA","kid":"FPwOOySaQ/qlL8aSeed8qw"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4521/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="LA 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/LA2" group-title="TDT", LA 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"II7mw0YzyTqpq7P9qoOBig","kid":"hD+Xm2BbTfOu70Wf6nxShw"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4522/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="La 7" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/CYLTV" group-title="Autonómicos", La 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"p4gq92+kuQMLBrffDCikLg","kid":"ySebmNunTxutmEviukxxiA"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/5266/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="La Resistencia 24H" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/RESIST" group-title="Entretenimiento", La Resistencia 24H
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"TvgkX3IAE4VPCWz//Y4QKA","kid":"Fz2ZGRXyShG2es0MdZFDcA"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/5032/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="La Sexta" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/SEXTA" group-title="TDT", La Sexta
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Iz+NjrzXOBewPNkJNsIjAw","kid":"gc1mtX8iQpuZliICVjdO1A"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4526/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="LaLiga TV Hypermotion 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/MLIGS2" group-title="LaLiga TV Hypermotion", LaLiga TV Hypermotion 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"MQUqPQxc1wk05ROa5XkCNQ","kid":"L8d8XgM/RcqHT9wPKOeSAA"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/5127/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="LaLiga TV Hypermotion 3" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/MLIGS3" group-title="LaLiga TV Hypermotion", LaLiga TV Hypermotion 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"jOCQq0DlrzIBVCJ3X7G8XA","kid":"hybufQncQaaIraXfScCOoQ"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/5137/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="LaLiga TV Hypermotion" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/MLIGS" group-title="LaLiga TV Hypermotion", LaLiga TV Hypermotion
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"V4k7jhr1b3Cmx4dBLYyCaw","kid":"NCQFah+kRu+fkbOcWNUiMQ"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/5124/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="M+ Acción" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/CPACCI" group-title="Cine y series", M+ Acción
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ZJQDbUJIgd4owKfJ86Ghmg","kid":"la901ftZT9WLhWptdDz3fw"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4542/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="M+ Cine Español" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/DCESP" group-title="Cine y series", M+ Cine Español
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1ocTvZeGssLPRbBHjuHpHw","kid":"qrD82TEUTkif/0b4D6mAmA"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4502/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="M+ Cine" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/MV1" group-title="Cine y series", M+ Cine
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yNPSclyn+yOwZUgwqjIvKg","kid":"n7HwY40/Suyjejx6avL+9g"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4501/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="M+ Clásicos" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/MCLAS" group-title="Cine y series", M+ Clásicos
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7JxdGlQ1zPRyMRBefTHAug","kid":"MWf1sdypS9OUZbOopClQaQ"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4999/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="M+ Comedia" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/CPCOME" group-title="Cine y series", M+ Comedia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"FLvYGsC44wzcHXtmRedXmg","kid":"7L3jQA9DTROM+s4CqKt8qw"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4573/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="M+ Deportes 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/ARTHUR" group-title="M+ Deportes", M+ Deportes 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ukZhCfFC4q1N9gY3mo4qoA","kid":"lQ6iPb46T96HVo4h3l21Zw"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4585/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="M+ Deportes 3" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/USOP2" group-title="M+ Deportes", M+ Deportes 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"K2I2pe3CiUqXLAeRky87Tg","kid":"E3cLuRR4SA2IBajYAKAB+Q"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4556/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="M+ Deportes 4" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/USOP3" group-title="M+ Deportes", M+ Deportes 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"MfSMMufCBOCA89ixqdXRfw","kid":"872x5bo4TPqGt0MdW3avCg"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4561/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="M+ Deportes 5" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/USOP11" group-title="M+ Deportes", M+ Deportes 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"2uadRxcb8SRyIKHqHpc4Xg","kid":"mqRVQPmkSpeC7V0J7K8l+Q"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4562/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="M+ Deportes 6" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/MULTI8" group-title="M+ Deportes", M+ Deportes 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Hy2vNO7ZtmfnAs4Wuuzgxw","kid":"L-HrKGZ-T8OW8VMvOr1qNw"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4566/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="M+ Deportes 7" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/MULTI6" group-title="M+ Deportes", M+ Deportes 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"IYkjLIcDI-Be7gyEvwIIKg","kid":"C0YDabqiRxmyvc/ApL2Xig"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4569/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="M+ Deportes 8" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/MULTI9" group-title="M+ Deportes", M+ Deportes 8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"_PtuzzPMdgCe8CSg7WQ2VQ","kid":"dnJY/I3PQKGm3PlX5jX75A"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4769/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="M+ Deportes" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/CPDEP" group-title="M+ Deportes", M+ Deportes
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ZG/TT4kKXNtlW/mpevBtRw","kid":"8Yw5tw+BRtmnnp3AwylGTQ"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4592/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="M+ Documentales" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/MDOC" group-title="Documentales", M+ Documentales
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8Lznw6FEKLniNkYS44Iqbg","kid":"oOitBXRwQMqYh0eVNomNCg"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/5245/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="M+ Drama" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/CPCOLE" group-title="Cine y series", M+ Drama
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ZbKflv8HfUV2ZU7FvgBs+Q","kid":"4OhQDGgYTOOPQpUkXtMc/g"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4576/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="M+ Ellas Vamos" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/MELLAV" group-title="M+ Deportes", M+ Ellas Vamos
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Ort/uBBtqJgl2rV/0cLiTg","kid":"vEV9E+g1Tjuj/kZ9/lMV7Q"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/5093/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="M+ Golf 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/GOLF2" group-title="M+ Deportes", M+ Golf 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"UYcOUgAqg51v4HYbdvNHFg","kid":"aA4MRn54R2Kz7jkCz9Cj/w"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/5196/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="M+ Golf" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/GOLF+" group-title="M+ Deportes", M+ Golf
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XZWxWj6CHXM9CaqC+qz72w","kid":"/5+WsPdkQh+4Tfnmur5F6A"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4584/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="M+ Indie" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/MINDI" group-title="Cine y series", M+ Indie
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"O/RKzAS7pUeSB9KLKO3veA","kid":"U17H7G72RY6Sv5U3Fam4gw"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/5249/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="M+ James Bond" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/MBOND" group-title="Cine y series", M+ James Bond
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"T0RVhmTj78GBG3zoi+tZeg","kid":"4+CwRxYwSX64H8F/OaUiGA"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4955/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="M+ LaLiga TV 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/MLIG1" group-title="M+ LaLiga TV", M+ LaLiga TV 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PYcqXnjnE46SHhLDhtAlog","kid":"i7damXZQSC+/cwY5F1pNAw"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4833/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="M+ LaLiga TV 3" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/MLIG2" group-title="M+ LaLiga TV", M+ LaLiga TV 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"2o35aY+Bz0lytAEV6o83Fg","kid":"8O+yNTpyRWeyDJz5nYlg0A"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4834/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="M+ LaLiga TV 4" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/MLIG3" group-title="M+ LaLiga TV", M+ LaLiga TV 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"hqI4iPugWCvir32ybAHZRQ","kid":"PLHS8sPhT6mGkhEN0WBLvA"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4835/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="M+ LaLiga TV UHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/MLIGUH" group-title="M+ LaLiga TV", M+ LaLiga TV UHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4LR7ZBYcj5aTPU6Ciw6Kfg","kid":"Lgu3+wqkQXWKkedYvzDYKQ"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/5077/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="M+ LaLiga TV" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/MLIGA" group-title="M+ LaLiga TV", M+ LaLiga TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8o/VAWqRF2BDMCIMCtCGqg","kid":"7ChG0sDgRTG+UQDgxMfezQ"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4882/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="M+ Liga de Campeones 10" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/CHAP9" group-title="M+ Liga de Campeones", M+ Liga de Campeones 10
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Fqc5BT8GibM3pQXRfpszug","kid":"3bD2FeAnTwSfsMzIuuk/Ow"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/5003/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="M+ Liga de Campeones 11" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/CHAP10" group-title="M+ Liga de Campeones", M+ Liga de Campeones 11
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Ig6msudl9U4o+9R0RQSWWQ","kid":"3iJCjNAsQnGX4q/KYQUWFQ"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/5007/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="M+ Liga de Campeones 12" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/CHAP11" group-title="M+ Liga de Campeones", M+ Liga de Campeones 12
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"VM5hllvLZmUsqH0fSo8tjA","kid":"o+JywRQ6TGeBHMSeeiQI4g"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/5017/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="M+ Liga de Campeones 13" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/CHAP12" group-title="M+ Liga de Campeones", M+ Liga de Campeones 13
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"LFBw374S84efBXfE6rE+Vg","kid":"QIgb6o0nTZSOEoBr/w1LHg"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/5021/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="M+ Liga de Campeones 2 UHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHUHD1" group-title="M+ Liga de Campeones", M+ Liga de Campeones 2 UHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Ty9Vsm3tojMqc1T3CSTMqw","kid":"9fJHclOESf6S9rSxdodsiA"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/5274/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="M+ Liga de Campeones 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/CHAP1" group-title="M+ Liga de Campeones", M+ Liga de Campeones 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"0yF1hkDFREYwbGKFrAYH8A","kid":"wIkGN+KvRtSXtWIMyIkZqw"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4581/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="M+ Liga de Campeones 3" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/CHAP2" group-title="M+ Liga de Campeones", M+ Liga de Campeones 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"d34qh0OcGyjJAV/KW/+iZA","kid":"mHhYO0NxTaaLTBu/x2Qu4w"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4564/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="M+ Liga de Campeones 4" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/CHAP3" group-title="M+ Liga de Campeones", M+ Liga de Campeones 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GyJwBdTD79FIeAKWv011/g","kid":"aM230crWSXelq9lKIUs+MQ"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4565/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="M+ Liga de Campeones 5" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/CHAP4" group-title="M+ Liga de Campeones", M+ Liga de Campeones 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"dYubJzsXyalAdBCrA3gOsw","kid":"Aup9/nLQSeicj44dea6/uA"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4568/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="M+ Liga de Campeones 6" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/CHAP5" group-title="M+ Liga de Campeones", M+ Liga de Campeones 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"MM1FrWSjddvAq+cpqvTtCQ","kid":"qIBoG/dfRVKUrTKxF3sdUA"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4570/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="M+ Liga de Campeones 7" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/CHAP6" group-title="M+ Liga de Campeones", M+ Liga de Campeones 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6lCy+57dMY64jGQPmNDEeA","kid":"JRB5Tp+sRxm6X9z9QLsr2A"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4572/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="M+ Liga de Campeones 8" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/CHAP7" group-title="M+ Liga de Campeones", M+ Liga de Campeones 8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kJNcLxu0tgjicVfq7Z4w3w","kid":"sL9MC/9tTqmtXqcqbU3J7g"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4574/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="M+ Liga de Campeones 9" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/CHAP8" group-title="M+ Liga de Campeones", M+ Liga de Campeones 9
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1RLCKR6mKLEu+eIiq/Ot+w","kid":"Lh79oSpsTOGg5U1NvUWv/A"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4578/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="M+ Liga de Campeones UHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/CHAUHD" group-title="M+ Liga de Campeones", M+ Liga de Campeones UHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"tbM0jC5T6vOYHcy4y24/yA","kid":"aRsJX7r+QpGA40t1hysy7A"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/5078/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="M+ Liga de Campeones" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/CHAPIO" group-title="M+ Liga de Campeones", M+ Liga de Campeones
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"2mrloEalbuaE+oNZ2+DB/Q","kid":"wGfLjXNXSZ+UWZpge4X50w"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4594/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="M+ Música" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/MONFIR" group-title="Música", M+ Música
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"WH24QmgGU0Cvf/okshhJlw","kid":"xUMAuwR7TD6bdUL/i3Zsxw"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4989/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="M+ Originales" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/MORIG" group-title="Cine y series", M+ Originales
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"k0iMNJenxoSGGH21bvq6SQ","kid":"Ewdc75TiTKKbTvVhShoRkg"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/5259/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="M+ Series" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/MV2" group-title="Cine y series", M+ Series
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"eu1x3O6kSvctlEw7V7AJrg","kid":"CfMf0/xYQCmzEOjkiR4ZTA"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4527/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="M+ Supercopa" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/MLIG2" group-title="M+ Supercopa", M+ Supercopa
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"2o35aY+Bz0lytAEV6o83Fg","kid":"8O+yNTpyRWeyDJz5nYlg0A"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4834/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="M+ Suspense" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/MSUSP" group-title="Cine y series", M+ Suspense
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"_xJFg3Tm8Bw7cQYx3yC62w","kid":"8UAsnP9kToSdpVz7kvJGew"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/5252/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="M+ Vamos" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/VAMOSD" group-title="M+ Deportes", M+ Vamos
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Y17UlNmQRmApuWgcfZgRQw","kid":"d7fl6LY1S/iSWvDd0kr+vQ"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4767/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Mega" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/MEGA" group-title="TDT", Mega
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"62G53SnOCNd9sR4yXAbvBw","kid":"tI/Re9h7TMaXxlhm5zFO1g"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4558/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Mezzo Live" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/MEZZLI" group-title="Música", Mezzo Live
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"VMU7M7PMZgPzcbqQFUai7A","kid":"Ai1HJlz1Q3yyD030R2DYKw"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4891/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Mezzo" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/MEZZO" group-title="Música", Mezzo
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"wO//vG3YOBGitibs2ub8fw","kid":"0CaN3xZ2SButP6zcG6JGyA"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4571/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Movistar Plus+ 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/MPLUS2" group-title="Entretenimiento", Movistar Plus+ 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"BNmbiXzBaYOVCl9LDHLWmA","kid":"TU7Z9FsWQJaKlWnUjLaNZA"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/5264/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Movistar Plus+" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/MPLUS" group-title="Entretenimiento", Movistar Plus+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"AIdIpqy7s0kb9d1JNV2CBw","kid":"hGjuu5XYQYyoXfaiOB+2TQ"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/5240/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="MTV 00s" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/VH1" group-title="Música", MTV 00s
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"5mu2ieO37vY640dpUqcY3g","kid":"+b3qzfHwQlOvutxsAYApxQ"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4567/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="MTV España" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/MTV" group-title="Música", MTV España
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Gh5HYKoiL3YiIqhT4Ycmxw","kid":"DGkt4keOS3eFl3gdD84UNQ"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4499/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Nat Geo Wild" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/NATGW" group-title="Documentales", Nat Geo Wild
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"CFrlRR+R2JLo6UBt2VHpaA","kid":"vyyAz4Q1TtmqBNH9xmsXVw"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4610/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="National Geographic" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/NATGEO" group-title="Documentales", National Geographic
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6Dn0hyRXsa/NVfOIzq6seg","kid":"451ScD8bTpy180oOtWo0eA"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4604/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Navarra TV" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/NAVA" group-title="Autonómicos", Navarra TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Up7/+2Sodi6rLMPrdKA7oA","kid":"Vq4k44YyRpyq368Qb8QYsA"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/5210/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Negocios TV" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/NEGOTV" group-title="Informativos", Negocios TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Jz9rZOeq4yMgh3Q7y7t4NQ","kid":"+7j7PUnATLGvt3PhlGG23g"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4985/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Neox" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/NEOX" group-title="TDT", Neox
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ACh3Pvf12RH76jbTFjs2AQ","kid":"cLpL3ePgTWWejPGMB2FT3A"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4538/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="NICK JR" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/NICKJR" group-title="TDT", NICK JR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"hYVc43YT0ag4RtSlNfN1LQ","kid":"QmebYDSwTTufaVQ/TiyYyw"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4511/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Nickelodeon" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/NICK" group-title="Infantiles", Nickelodeon
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HfWm9hiN2b58hvBclQHgiA","kid":"FizdXWkmSM6MHmMo0caOxw"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4512/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Nova" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/NOVA" group-title="TDT", Nova
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"IyoPU1bguyZyowQ+CPGK6A","kid":"LOjDtNGbQyyUSZypHcnZlw"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4601/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Odisea" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/ODISEA" group-title="Documentales", Odisea
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8VvXXOH07wTtQt9Kg6TeWg","kid":"fNpRyAvlRsefwbMnmhy7cA"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4547/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Paramount Channel" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/PARCH" group-title="Documentales", Paramount Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8b6zn12Pz5lukyhwlusNJQ","kid":"gt6FALVaSmqhin2XtSXJPw"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4586/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Punt" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/APUNT" group-title="Autonómicos", Punt
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"u0NnA96hq+ZgwAlnZXo10w","kid":"PaaZ3ZDKTtW1ktwaKUgSrQ"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/5088/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Real Madrid TV" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/REALM" group-title="TDT", Real Madrid TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"alXCPuvxKG0o1T65TWQNeA","kid":"waR3lPvMQVaTt2WJlGDmOQ"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/5198/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Skyshowtime" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/SKYSHO" group-title="TDT", Skyshowtime
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"xzKfW3QgfbFiuUfPx2/tBQ","kid":"KOO3KlEvT7OHK5MnQCh8xg"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/5271/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Somos" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/SOMOS" group-title="Cine y series", Somos
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"SBnCxWGpGMeYlY77iCjT1Q","kid":"3nZn0680QLuzWahveqIVGw"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/5051/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Star Channel" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/FOXGE" group-title="Cine y series", Star Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8DWMaA/8RpBAB95GE4jfKA","kid":"ReQWOaC5RT+bJgy50DJjaQ"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4528/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Sundance TV" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/SUNDAN" group-title="Cine y series", Sundance TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Xt/XZ1Rm8xuHFX7h9p1fEA","kid":"AJhaKp9yTwe30dQz1SvSFg"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4579/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="SYFY" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/SCI-FI" group-title="Cine y series", SYFY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"/OhjttrwqRkNuF7O3iSB9g","kid":"C1InwRD8SvW1Buamx3kdoQ"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4536/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="TCM" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/TCM" group-title="Cine y series", TCM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"t5GoRH0DDXhV+eIxiGy5cw","kid":"0jnq7BHUTcSej3SvDnMwpw"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4603/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Telecinco" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/T5" group-title="TDT", Telecinco
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"lzFXRLO3CnSvdGzdYaKZ2g","kid":"gJ7XbyZWQdm8cxNR1qBsQA"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4525/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Teledeporte" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/TDEP" group-title="TDT", Teledeporte
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"IPV+2CkX2VONAZIxTmHKew","kid":"gvzn5Uq6S6Wgi/SjwqvHRA"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4504/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Telemadrid Int." tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/TELMIN" group-title="Autonómicos", Telemadrid Int.
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"5/Z8UauklMnu1KCGVgDhXA","kid":"WRrwv4/4Tey+Hi2+wGMHTw"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/5092/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="TeleMadrid" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/TELMAD" group-title="Autonómicos", TeleMadrid
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Qf4jbYFZuVyFAo/N9bVvOg","kid":"RfKy/uE7RvWHRX4RiiN7Ug"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4981/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Ten" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/TEN" group-title="TDT", Ten
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Lgd3FRaZ6Kn/wHWeHWkDFg","kid":"rCvqcOQsSRqG+xK1azE7OQ"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/5253/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="TRECE" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/13TV" group-title="TDT", TRECE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"gglU8t9S0XFkS0Na8FYzdQ","kid":"YS6tV6AfT+qHr0mCMawtsQ"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/5094/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="TV Canaria" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/CANAR" group-title="Autonómicos", TV Canaria
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"QSquwU0Ddf7/r4Wz9tO7xA","kid":"sJmSLd2OTJu/32XXw+5zmA"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/5089/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="TV3 Cat" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/TVC" group-title="Autonómicos", TV3 Cat
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"nm/g8atJPLENa98PBnf/2g","kid":"OmtHsuKiTsuPnN8VCSx8oQ"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4555/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="TV3" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/TV3CAT" group-title="Autonómicos", TV3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"qFh19vaVMa2SCi9XbLpExg","kid":"jPHQxNP7QVWBIAT+edsd5A"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4982/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="TVG - TV Galicia" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/TVGAL" group-title="Autonómicos", TVG - TV Galicia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3mJKFsevL1Hhn+HAk8WzMw","kid":"V1a2xRsSQG6X9mHiUBCe+g"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4983/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="TVGA Europa" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/TVG" group-title="Autonómicos", TVGA Europa
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1LZezTmhfS0hwY6XAZa4OQ","kid":"27QW6GlASF+yAF7HeVni1g"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4548/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Ubeat" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/UBEAT" group-title="Entretenimiento", Ubeat
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"F3EdeIDmqdiWV5El0zQnvw","kid":"ShPsGfOaR9qW1ndRHtwBFg"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4886/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="Warner TV" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/TNT" group-title="Cine y series", Warner TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"/ckswrp34MEG+YoxQ/pPVw","kid":"zcyShbmwQnCXepJ4vWsRaA"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/4530/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="XTRM" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/XTRM" group-title="Cine y series", XTRM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"v3dHw/HNStlPRh6D1cWIjA","kid":"2CHa1OYsTcaV4f94GaNlbg"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/5050/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
+
+#EXTINF: -1 tvg-name="À Punt" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/APUNT" group-title="Autonómicos", À Punt
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"u0NnA96hq+ZgwAlnZXo10w","kid":"PaaZ3ZDKTtW1ktwaKUgSrQ"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/5088/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-07-16T21:51:03Z&end_time=2024-07-17T06:51:18Z
